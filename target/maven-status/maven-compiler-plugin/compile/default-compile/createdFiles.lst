@@ -1,0 +1,8 @@
+org/kie/kogito/examples/PersonValidationService.class
+org/kie/kogito/examples/CorsConfig.class
+org/kie/kogito/examples/KafkaConfig.class
+org/kie/kogito/examples/CalculationService.class
+org/kie/kogito/examples/demo/Person.class
+org/kie/kogito/examples/demo/Order.class
+org/kie/kogito/examples/DemoApplication.class
+org/kie/kogito/examples/P39/LambdaConsequence39D5DB46B7308831C5DE8680BB7F19C5.class

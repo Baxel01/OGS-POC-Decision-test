@@ -1,0 +1,7 @@
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/PersonValidationService.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/CorsConfig.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/KafkaConfig.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/CalculationService.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Order.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/DemoApplication.java
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Person.java

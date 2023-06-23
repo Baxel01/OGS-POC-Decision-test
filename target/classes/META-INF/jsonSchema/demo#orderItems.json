@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2019-09/schema","$defs":{"Order":{"type":"object","properties":{"orderNumber":{"type":"string"},"shipped":{"type":"boolean"},"total":{"type":"number"}}}},"type":"object","properties":{"item":{"type":"string"},"order":{"$ref":"#/$defs/Order"}}}

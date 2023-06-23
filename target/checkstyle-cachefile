@@ -1,0 +1,15 @@
+#Thu Jun 22 14:16:14 CEST 2023
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/CalculationService.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/CorsConfig.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/DemoApplication.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/KafkaConfig.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/PersonValidationService.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Order.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/java/org/kie/kogito/examples/demo/Person.java=1687435876118
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/main/resources/application.properties=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/OrdersProcessIT.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/OrdersRestIT.java=1687421554508
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/PersonProcessIT.java=1687421554512
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/test/java/org/kie/kogito/examples/demo/PersonsRestIT.java=1687421554512
+/home/oem/kogito-projects/kogito-examples/kogito-springboot-examples/process-springboot-example/src/test/resources/application.properties=1687421554512
+configuration*?=5129F206EDD2068C83C18745A9FD134BD6179997

@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2019-09/schema","$defs":{"Person":{"type":"object","properties":{"adult":{"type":"boolean"},"age":{"type":"integer"},"name":{"type":"string"},"retired":{"type":"boolean"}}}},"type":"object","properties":{"person":{"$ref":"#/$defs/Person"}}}
